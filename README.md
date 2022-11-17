@@ -4,7 +4,7 @@
 
 ## EDUCAÇÃO
 
-* Tecnólogo em Análise e Desenvolvimento de Sistemas
+* Tecnólogo em Análise e Desenvolvimento de Sistemas<br />
 Cruzeiro do Sul/UNIPÊ - Centro Universitário de João Pessoa
 2022 - Cursando
 
