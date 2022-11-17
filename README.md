@@ -12,6 +12,8 @@ Cruzeiro do Sul/UNIPÊ - Centro Universitário de João Pessoa<br />
 UNIP - Universidade Paulista<br />
 2012 - 2015 - Concluído
 
+## [Lista de Todos os Repositórios](https://github.com/netocosta/lista_de_repositorios)
+
 ## 🗣️ Redes Sociais
 
 * [Site Pessoal](https://www.netocosta.com.br)
