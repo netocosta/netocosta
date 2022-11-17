@@ -7,7 +7,7 @@
 * Tecnólogo em Análise e Desenvolvimento de Sistemas<br />
 Cruzeiro do Sul/UNIPÊ - Centro Universitário de João Pessoa<br />
 2022 - Cursando
-<br />
+
 * Bacharel em Administração de Empresas<br />
 UNIP - Universidade Paulista<br />
 2012 - 2015 - Concluído
