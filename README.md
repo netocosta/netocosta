@@ -5,11 +5,11 @@
 ## EDUCAÇÃO
 
 * Tecnólogo em Análise e Desenvolvimento de Sistemas<br />
-Cruzeiro do Sul/UNIPÊ - Centro Universitário de João Pessoa
+Cruzeiro do Sul/UNIPÊ - Centro Universitário de João Pessoa<br />
 2022 - Cursando
-
-* Bacharel em Administração de Empresas
-UNIP - Universidade Paulista
+<br />
+* Bacharel em Administração de Empresas<br />
+UNIP - Universidade Paulista<br />
 2012 - 2015 - Concluído
 
 ## 🗣️ Redes Sociais
