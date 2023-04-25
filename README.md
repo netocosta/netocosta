@@ -18,7 +18,7 @@ UNIP - Universidade Paulista<br />
 
 * [Site Pessoal](https://www.netocosta.com.br)
 * [LinkedIn](https://www.linkedin.com/in/netocostajp/)
-* [Youtube](https://www.youtube.com/@dev.netocosta)
+* [Youtube](https://www.youtube.com/@netocostajp)
 * [Instagram](https://www.instagram.com/netocostajp/)
 * [Facebook](https://www.facebook.com/netocostajp/)
 
