@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ Sobre Mim
 
-34 anos, Paraibano, casado, tenho experiência na área de desenvolvimento desde os meus 12 anos. HTML, CSS, JavaScript, PHP. Trabalho sempre em busca de evoluir como ser humano e como profissional. Criador de conteúdos para o YouTube na área, sempre tentando ensinar aquilo que aprendo, na certeza de que ensinando a gente aprende cada vez mais.
+35 anos, Paraibano, solteiro, tenho experiência na área de desenvolvimento desde os meus 12 anos. HTML, CSS, JavaScript, PHP. Trabalho sempre em busca de evoluir como ser humano e como profissional. Criador de conteúdos para o YouTube na área, sempre tentando ensinar aquilo que aprendo, na certeza de que ensinando a gente aprende cada vez mais.
 
 ## 🎓 Educação
 
